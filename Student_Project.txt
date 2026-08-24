@@ -1,7 +1,8 @@
-My Student Project 
+VerMy Student Project 
 Name: Tejel Korgaunker
 Class: FYBSC
 Course: Computer Software Fundamentals
 This is my first project using GitHub.
 What i learned:
 GitHub can be used to store and share project files.
+Version control helps us track changes made to project.
