@@ -1,4 +1,4 @@
-VerMy Student Project 
+My Student Project 
 Name: Tejel Korgaunker
 Class: FYBSC
 Course: Computer Software Fundamentals
